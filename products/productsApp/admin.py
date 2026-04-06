@@ -9,3 +9,4 @@ class ProductAdmin(admin.ModelAdmin):
 
 
 #sonar 123456
+#https://github.com/Ranoscyber/products_backend_api.git
